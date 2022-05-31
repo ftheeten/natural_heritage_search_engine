@@ -1,5 +1,3 @@
-**
-
 # NaturalHeritage Taxon checker
 
 The aim of this tool is to complete and annotate tab-delimited files with taxonomic information (scientific names) against several web services
